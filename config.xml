@@ -3,9 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>shoufu school</name>
-    <description>軟體描述</description>
-    <author href="http://web.tsu.edu.tw/bin/home.php" email="作者email">john</author>
+    <name>首府大學簡介</name>
+    <description>各系介紹</description>
+    <author href="http://web.tsu.edu.tw/bin/home.php" email="john@yahoo.com.tw">john</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
